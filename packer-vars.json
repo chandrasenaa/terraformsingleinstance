@@ -3,7 +3,7 @@
     "aws_secret_key": "qyz6w/4CT9lGYBGzspEIewMOA7fc+PGdDOrhqIjC",
     "region": "us-east-2",
     "source_ami":"ami-07a3e3eda401f8caa",
-    "instance_type":"t2.micro",
+    "instance_type":"",
     "vpc_id": "vpc-077a665feb13f1243",
     "subnet_id": "subnet-06c8950ab63dbfa14",
     "tags": ""
